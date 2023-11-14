@@ -1,8 +1,8 @@
-header{display: flex;background-color: green;
+header{display: flex;background-color: green; 
 }
 div{display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-left: 120px;
+    margin-left: 200px;
 }
 button{margin: 2px;}

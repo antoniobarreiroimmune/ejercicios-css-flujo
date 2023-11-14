@@ -1,6 +1,6 @@
 body{display: flex;
 background-color: blueviolet;}
-#recomendaciones{
+#recomendaciones{box-sizing: content-box; width: 70%;height: auto;
 margin: 10px;
 background-color: green;
 border-radius: 20px;}
