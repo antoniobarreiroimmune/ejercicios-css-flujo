@@ -1,0 +1,6 @@
+#seccion1{display: flex;flex-direction: column;text-align: center;background-color: brown;justify-content: center;}
+#seccion2{display: flex;flex-direction: column;text-align: center;background-color: green;}
+h1{box-sizing: border-box;width:100px; background-color: white;border-radius: 10px;align-self: center}
+div{display: flex;}
+#noticias{color: green;}
+#intros{color:brown}
