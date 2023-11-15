@@ -1,8 +1,7 @@
 body{display: flex;
-background-color: blueviolet;}
-#recomendaciones{box-sizing: content-box; width: 70%;height: auto;
-margin: 10px;
+background-color: blueviolet;align-items: center;}
+#recomendaciones{margin:10px; padding:2px; height: fit-content;
 background-color: green;
 border-radius: 20px;}
 h2{color: blueviolet;}
-ul{color: blueviolet;}
+ul{color: blueviolet;list-style: none;}

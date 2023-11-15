@@ -4,3 +4,4 @@ h1{box-sizing: border-box;width:100px; background-color: white;border-radius: 10
 div{display: flex;}
 #noticias{color: green;}
 #intros{color:brown}
+article{text-align: center;padding: 10px;}

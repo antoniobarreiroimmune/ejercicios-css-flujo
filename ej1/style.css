@@ -1,8 +1,6 @@
-header{display: flex;background-color: green; 
+header{display: flex;background-color: green; justify-content: space-between;align-items:center;padding: 0 5% 0 5%;
 }
-div{display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-left: 200px;
+#div1{color: white;
 }
-a{margin: 2px;}
+#div2{background-color:green 2px;}
+a{background-color: white;border-radius: 5px;}

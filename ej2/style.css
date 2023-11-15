@@ -1,13 +1,6 @@
-header{display: flex;background-color:aqua;
+header{display: flex;background-color:aqua;align-items: center;
 }
-#div1{display: flex;
-    flex-direction: column;
-    }
-    #div2{box-sizing: content-box;width: 260px;height: auto;background-color:;margin-left: 130px;}
-ul{display: flex;flex-direction:row;list-style: none;padding-top: 25px;}
-li{margin: 10px;}
-h1{margin-bottom: 0px;color: white;}
-    
-    
-h2{text-align: right;margin-top: 0px;color: white;}
+#div1{color: white;text-align: center;}
+h2{margin-left: 150px;margin-top: -25px;}
+#div2{margin-left: 400px;}
 a{color: white;}
